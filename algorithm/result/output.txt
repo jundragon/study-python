@@ -1,2 +1,1 @@
-input3
-input4
+{'headgear': ['yellow_hat', 'green_turban'], 'eyewear': ['blue_sunglasses']}
