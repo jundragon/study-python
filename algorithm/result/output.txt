@@ -1,1 +1,1 @@
-{'headgear': ['yellow_hat', 'green_turban'], 'eyewear': ['blue_sunglasses']}
+2
